@@ -23,5 +23,5 @@ https://cdn.freedominthe50states.org/download/2018/print-edition-2018.pdf
 Talking every pass and location on field throughout game.
 ![Image of individual player's passes](https://https://miro.medium.com/max/894/1*Uozh-QU8pRby-z2GcfqTtQ.png)
 
-From a tutorial on how to create these kinds of visualizations from the data:
+Pass map from a tutorial on how to create these kinds of visualizations from the data:
 https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b
