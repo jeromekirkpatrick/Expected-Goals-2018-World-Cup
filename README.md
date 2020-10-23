@@ -21,7 +21,7 @@ https://cdn.freedominthe50states.org/download/2018/print-edition-2018.pdf
 ### **Very detailed individual player professional soccer performance data - including what seems like 43 games from the 2018 World Cup**
 
 Talking every pass and location on field throughout game.
-![Image of individual player's passes](https://https://miro.medium.com/max/894/1*Uozh-QU8pRby-z2GcfqTtQ.png)
+![Image of individual player's passes](https://github.com/jeromekirkpatrick/capstone_1/blob/main/pass_map_soccer.png)
 
 Pass map from a tutorial on how to create these kinds of visualizations from the data:
 https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b
