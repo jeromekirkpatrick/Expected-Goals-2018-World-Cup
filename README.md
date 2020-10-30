@@ -56,7 +56,9 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ## Messi 2 - Ronaldo 0 - NUTMEGS
 
-![7 - Messi Ronaldo.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/7%20-%20Messi%20Ronaldo.png)
+
+# Focusing on 3 stats! - SHOTS, EXPECTED GOALS, GOALS
+![Messi v Ronaldo 3 stats.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Messi%20v%20Ronaldo%203%20stats.png)
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
