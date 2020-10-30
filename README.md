@@ -57,6 +57,11 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # Focusing on 3 stats! - SHOTS, EXPECTED GOALS, GOALS
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
+# All shots across tournament, penalty spot and penalty kicks explains spike in density
+
+![13 - missed shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13%20-%20missed%20shots.png)
+
+![13.1 makes.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.1%20makes.png)
 
 # EXPECTED GOALS STAT
 ![9.2 - xg tree.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.2%20-%20xg%20tree.png)
@@ -75,7 +80,7 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # Here's both teams - The expected goals doesn't tell the tale of actual score
 ![10.1 France v Croatia xg hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10.1%20France%20v%20Croatia%20xg%20hists.png)
 
-# Expected goals seems questionably correlated to Actual goals
+# Expected goals seems somewhat correlated to Actual goals, would hope very correlated...
 ![Expected Goals vs Actual Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Actual%20Goals.png)
 
 # Maybe shots have a better correlation than Statsbomb's Expected Goal? Clearly takes many shots to produce fewer goals
@@ -84,7 +89,7 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # Is there a relationship between the tournament average shots/goal and goals per match? There seem to be more disparities than with Expected Goals
 ![Goals vs Shots Avg](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots%20per%20Goal.png)
 
-# Expected Goals investigated further? Do risktakers have higher expected goals?
+# Expected Goals investigated further? Do risktakers have higher expected goals? REDHERRINGS AHEAD.
 
 # Dribblers are risktakers...
 ![xg vs dribbles.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/xg%20v%20dribbles.png)
@@ -95,20 +100,53 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # Nutmegs are definitely a risk, but there aren't enough attempts
 ![12.2 - nutmegs v xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12.2%20-%20nutmegs%20v%20xg.png)
 
+# K.I.S.S. - Re-focusing on goals, shots, and expected goals
 
-![13 - missed shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13%20-%20missed%20shots.png)
+# Let's do a linear regression to see how great Expected Goals are at predicting Actual Goals:
 
-![13.1 makes.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.1%20makes.png)
+![Expected Goals vs Actual Goals with fit line.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Actual%20Goals%20with%20fit%20line.png)
 
-![13.3 - xg averages.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.3%20-%20xg%20averages.png)
+# The numbers of the linear regression calculations
+![Linear Regression expected goals vs actual goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Linear%20Regression%20expected%20goals%20vs%20actual%20goals.png)
 
-![13.4 xg makes > avg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.4%20xg%20makes%20%3E%20avg.png)
+# Expected Goals vs Shots is interesting to consider too
+![Expected Goals vs Shots w/fit line.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Shots%20w:fit%20line.png)
 
-![13.4.1 xg makes <= avg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.4.1%20xg%20makes%20%3C%3D%20avg.png)
+# Those numbers
+![Linear Regression expected goals vs shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Linear%20Regression%20expected%20goals%20vs%20shots.png)
 
-![13.5 xg misses <= avg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.5%20xg%20misses%20%3C%3D%20avg.png)
+# The residuals look strange!
+![Residuals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Residuals.png)
 
-![13.5 xg misses > avg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13.5%20xg%20misses%20%3E%20avg.png)
+# The QQ Plot suggests to me some non-linearity
+![QQPlot.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/QQPlot.png)
+
+# Wondering if the non-linearity is exlained because of the strangeness between Expected Goals and Actual Goals during the Knockout Stage as the bar chart suggested
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![all_df goals = 183.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/all_df%20goals%20%3D%20183.png)
+
+![FIFA goals = 169.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/FIFA%20goals%20%3D%20169.png)
+
+![all_df top scorer = 7.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/all_df%20top%20scorer%20%3D%207.png)
+
+
+
+
 
 
 
