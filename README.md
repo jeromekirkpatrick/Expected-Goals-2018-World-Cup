@@ -75,16 +75,26 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # Here's both teams - The expected goals doesn't tell the tale of actual score
 ![10.1 France v Croatia xg hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10.1%20France%20v%20Croatia%20xg%20hists.png)
 
-# Expected goals seems questionable as a 
+# Expected goals seems questionably correlated to Actual goals
+![Expected Goals vs Actual Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Actual%20Goals.png)
+
+# Maybe shots have a better correlation than Statsbomb's Expected Goal? Clearly takes many shots to produce fewer goals
 ![Goals vs Shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots.png)
 
+# Is there a relationship between the tournament average shots/goal and goals per match? There seem to be more disparities than with Expected Goals
 ![Goals vs Shots Avg](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots%20per%20Goal.png)
 
+# Expected Goals investigated further? Do risktakers have higher expected goals?
+
+# Dribblers are risktakers...
 ![xg vs dribbles.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/xg%20v%20dribbles.png)
 
+# Higher incomplete pass rate is perhaps a sign of risktaking...
 ![12.1 - pass rate v xg - exploration.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12.1%20%20-%20pass%20rate%20v%20xg%20-%20exploration.png)
 
+# Nutmegs are definitely a risk, but there aren't enough attempts
 ![12.2 - nutmegs v xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12.2%20-%20nutmegs%20v%20xg.png)
+
 
 ![13 - missed shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/13%20-%20missed%20shots.png)
 
