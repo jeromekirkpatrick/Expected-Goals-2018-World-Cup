@@ -1,7 +1,7 @@
 ![Statsbomb](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Screen%20Shot%202020-10-30%20at%204.59.04%20PM.png)
 
 # The Data Source 
-# Statsbomb is a business that provides soccer analytics mainly for teams, media, and gambling
+# Statsbomb - soccer analytics mainly for teams, media, and gambling
 https://statsbomb.com
 
 # Free dataset to promote furthering soccer and data science, avaiable at https://github.com/statsbomb/open-data
