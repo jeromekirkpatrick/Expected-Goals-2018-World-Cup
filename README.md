@@ -1,6 +1,6 @@
 # SOCCER & STATSBOMB! - Capstone 1
 
-# The Data Source. ** Statbomb ** is a business that provides soccer analytics mainly for teams, media, and gambling
+# The Data Source. Statsbomb is a business that provides soccer analytics mainly for teams, media, and gambling
 https://statsbomb.com
 
 # StatsBomb provides a free dataset to promote furthering soccer and data science, avaiable at https://github.com/statsbomb/open-data
