@@ -154,6 +154,15 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 # Learning this all at 2pm before presenting... Well, something is going on and it's either me or this dataset!
 
+# Biggest Takeaways:
+# * Get the assumptions wrong and all the conclusions are spoiled
+# * Expected a stat like 'goal' to be unambiguous, and that proved an assumption I almost didn't question in time
+
+# Wishes:
+# * Offside calls
+# * VAR (Video Assistant Referee) data. One of the big stories of 2018 World Cup.
+# * 'Goal' being it's own column.
+
 # Thank You's!
 Thanks to Jamie for walking me through linear regression! Thanks to Hashim for being soccer datasets buddies and being there to bounce ideas off! Thanks to my group for being chill to work beside! Thanks to my family for hugely supporting me while I concentrate as much as possible on this class and project!
 
