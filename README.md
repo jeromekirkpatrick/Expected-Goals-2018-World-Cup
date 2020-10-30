@@ -123,26 +123,52 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 # Wondering if the non-linearity is exlained because of the strangeness between Expected Goals and Actual Goals during the Knockout Stage as the bar chart suggested
 
+# Again
 
+![Actual vs Expected Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Actual%20vs%20Expected%20Goals.png)
 
+# Let me get see how Expected Goals vs Actual in the Group Stage only looks...
 
+# Wait this is proving hard... I'm not getting the goals I expect between the Group Stage and Knockout Stage...
 
+# Google, how many goals were there in Knockout Stage? Google, this shouldn't be so hard!
 
-
-
-
-
-
-
-
-
-
-
-![all_df goals = 183.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/all_df%20goals%20%3D%20183.png)
+# Wait?! What? There were 169 in the tournament, 
 
 ![FIFA goals = 169.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/FIFA%20goals%20%3D%20169.png)
 
+# not 183 as my dataset says...
+
+![all_df goals = 183.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/all_df%20goals%20%3D%20183.png)
+
+# Maybe these are shots that went in the goal, and were called back due to an infraction...
+
+# The top scorer had 6 goals, not 7??
+
+![FIFA top goal scorer = 6.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/FIFA%20top%20goal%20scorer%20%3D%206.png)
+
 ![all_df top scorer = 7.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/all_df%20top%20scorer%20%3D%207.png)
+
+# Learning this all at 2pm before presenting... Well, something is going on and it's either me or this dataset!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
