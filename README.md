@@ -38,9 +38,9 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ![4 - Shot columns.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/4%20-%20Shot%20columns.png)
 
-![5 - Shot Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5%20-%20Shot%20Map.png)
-
 # France's shots (France was champion)
+
+![5 - Shot Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5%20-%20Shot%20Map.png)
 
 ![5.1 shots locations map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5.1%20shots%20locations%20map.png)
 
@@ -55,7 +55,6 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 ![7 - Messi Ronaldo.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/7%20-%20Messi%20Ronaldo.png)
 
 ## Messi 2 - Ronaldo 0 - NUTMEGS
-## Messi WINS!
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
