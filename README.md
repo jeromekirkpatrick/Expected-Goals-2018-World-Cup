@@ -1,5 +1,3 @@
-# SOCCER & STATSBOMB! - Capstone 1
-
 ![Statsbomb](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Screen%20Shot%202020-10-30%20at%204.59.04%20PM.png)
 
 # The Data Source 
