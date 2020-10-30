@@ -112,7 +112,7 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 ![Expected Goals vs Actual Goals with fit line.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Actual%20Goals%20with%20fit%20line.png)
 
 # The numbers of the linear regression calculations
-![Linear Regression expected goals vs actual goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Screen%20Shot%202020-10-30%20at%204.44.38%20PM.png)
+![Linear Regression expected goals vs actual goals.png](https://https://github.com/jeromekirkpatrick/capstone_1/blob/main/Linear%20Regression%20expected%20goals%20vs%20actual%20goals.png)
 
 # Expected Goals vs Shots is interesting to consider too
 ![Expected Goals vs Shots w/fit line.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Expected%20Goals%20vs%20Shots%20w:fit%20line.png)
