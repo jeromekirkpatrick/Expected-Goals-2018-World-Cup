@@ -77,7 +77,7 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ![Goals vs Shots Avg](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots%20per%20Goal.png)
 
-![12 - dribbles v xg - trying to understand xg further.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12%20-%20dribbles%20v%20xg%20-%20trying%20to%20understand%20xg%20further.png)
+![xg vs dribbles.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/xg%20v%20dribbles.png)
 
 ![12.1 - pass rate v xg - exploration.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12.1%20%20-%20pass%20rate%20v%20xg%20-%20exploration.png)
 
