@@ -1,6 +1,6 @@
 # SOCCER & STATSBOMB! - Capstone 1
 
-# The Data Source. 
+# The Data Source 
 # Statsbomb is a business that provides soccer analytics mainly for teams, media, and gambling
 https://statsbomb.com
 
@@ -15,7 +15,7 @@ Available data in the free dataset:
 * 1 EPL season
 * 2019 Women's World Cup
 
-# The Data
+# My Dataset
 
 Chose to focus on 2018 World Cup
 * 64 games - 32 countries
