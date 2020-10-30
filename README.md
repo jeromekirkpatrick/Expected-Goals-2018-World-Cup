@@ -21,14 +21,14 @@ Chose to focus on 2018 World Cup
 * 48 round robin group stage games - 8 groups of 4
 * 16 single elimination games - Round of 16 through Final and 3rd place match
 
-* https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b
-
 ![1- Shape df.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/1%20-%20Shape%20df.png)
 
 ![2 - Pass columns.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/2%20-%20Pass%20columns.png)
 
-Shout out to this blog for helping me visualize data in some appealing ways:
+### **Shout out to this blog for helping me visualize data in some appealing ways:**
 https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b
+
+# Location, location, location!!
 
 ![3 - Pass Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/3%20-%20Pass%20Map.png)
 
@@ -40,9 +40,16 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ![5.1 shots locations map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5.1%20shots%20locations%20map.png)
 
+# More than you need to know!
+
 ![6 - nutmegs.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/6%20-%20nutmegs.png)
 
+# Everything you need to know! MESSI v RONALDO
+
+### Messi 2 - Ronaldo 0 - NUTMEGS
+
 ![7 - Messi Ronaldo.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/7%20-%20Messi%20Ronaldo.png)
+
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
