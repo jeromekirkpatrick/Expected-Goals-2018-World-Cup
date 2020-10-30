@@ -27,6 +27,9 @@ Chose to focus on 2018 World Cup
 
 ![2 - Pass columns.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/2%20-%20Pass%20columns.png)
 
+Shout out to this blog for helping me visualize data in some appealing ways:
+https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b
+
 ![3 - Pass Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/3%20-%20Pass%20Map.png)
 
 ![3.1 Pass Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/3.1%20Pass%20Map.png)
