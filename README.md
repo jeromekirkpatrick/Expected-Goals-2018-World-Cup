@@ -56,6 +56,8 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ## Messi 2 - Ronaldo 0 - NUTMEGS
 
+![7 - Messi Ronaldo.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/7%20-%20Messi%20Ronaldo.png)
+
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
 ![9 - France xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9%20-%20France%20xg.png)
