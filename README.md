@@ -34,22 +34,28 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ![3.1 Pass Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/3.1%20Pass%20Map.png)
 
+# Shots too!
+
 ![4 - Shot columns.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/4%20-%20Shot%20columns.png)
 
 ![5 - Shot Map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5%20-%20Shot%20Map.png)
 
+# France's shots (France was champion)
+
 ![5.1 shots locations map.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/5.1%20shots%20locations%20map.png)
 
-# More than you need to know!
+# Nutmegs? More than you need to know!
 
 ![6 - nutmegs.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/6%20-%20nutmegs.png)
 
 # Everything you need to know! MESSI v RONALDO
 
-### Messi 2 - Ronaldo 0 - NUTMEGS
+### Most important question to answer - Messi v Ronaldo!
 
 ![7 - Messi Ronaldo.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/7%20-%20Messi%20Ronaldo.png)
 
+## Messi 2 - Ronaldo 0 - NUTMEGS
+## Messi WINS!
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
