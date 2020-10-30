@@ -77,10 +77,12 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # This is the story of the tournament - 48 Group Stage games followed by 16 Knockout Stage games
 ![Actual vs Expected Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Actual%20vs%20Expected%20Goals.png)
 
-# There seems to be more variation in the Knockout Stage! Let's look at one, the final between France and Croatia
+# There seems to be more variation in the Knockout Stage! 
 
-# All of France's shots and the expected goal value
-![9 - France xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9%20-%20France%20xg.png)
+# Blow up single game - The Final between France and Croatia
+
+# All of Croatia's shots and the expected goal value
+![Croatia_xg2.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Croatia_xg2.png)
 
 # Here's both teams - The expected goals doesn't tell the tale of actual score
 ![10.1 France v Croatia xg hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10.1%20France%20v%20Croatia%20xg%20hists.png)
