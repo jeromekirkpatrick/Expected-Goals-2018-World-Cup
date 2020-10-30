@@ -61,14 +61,21 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # EXPECTED GOALS STAT
 ![9.2 - xg tree.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.2%20-%20xg%20tree.png)
 
+# Expected goals predicted some very high scoring games and in reality there were some very low scoring games.
 ![9.0.0.1 xg goals hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.0.0.1%20xg%20goals%20hists.png)
 
+# This is the story of the tournament - 48 Group Stage games followed by 16 Knockout Stage games
 ![Actual vs Expected Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Actual%20vs%20Expected%20Goals.png)
 
+# There seems to be more variation in the Knockout Stage! Let's look at one, the final between France and Croatia
+
+# All of France's shots and the expected goal value
 ![9 - France xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9%20-%20France%20xg.png)
 
+# Here's both teams - The expected goals doesn't tell the tale of actual score
 ![10.1 France v Croatia xg hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10.1%20France%20v%20Croatia%20xg%20hists.png)
 
+# Expected goals seems questionable as a 
 ![Goals vs Shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots.png)
 
 ![Goals vs Shots Avg](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots%20per%20Goal.png)
