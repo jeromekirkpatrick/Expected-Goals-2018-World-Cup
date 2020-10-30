@@ -123,12 +123,10 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 # The residuals look strange!
 ![Residuals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Residuals.png)
 
-# The QQ Plot suggests to me some non-linearity
+# Does the QQ Plot suggest some non-linearity?
 ![QQPlot.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/QQPlot.png)
 
-# Wondering if the non-linearity is exlained because of the strangeness between Expected Goals and Actual Goals during the Knockout Stage as the bar chart suggested
-
-# Again
+# If non-linearity, could strangeness between Expected Goals and Actual Goals during the Knockout Stage as the bar chart suggested
 
 ![Actual vs Expected Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Actual%20vs%20Expected%20Goals.png)
 
