@@ -1,4 +1,4 @@
-# Capstone 1 - SOCCER & STATSBOMB!
+# SOCCER & STATSBOMB! - Capstone 1
 
 # The Data Source - Statbomb is a business that provides soccer analytics mainly for teams, media, and gambling
 https://statsbomb.com
@@ -151,6 +151,8 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 # Learning this all at 2pm before presenting... Well, something is going on and it's either me or this dataset!
 
+# Thank You's!
+Thanks to Jamie for walking me through linear regression! Thanks to Hashim for being soccer datasets buddies and being there to bounce ideas off! Thanks to my group for being chill to work beside! Thanks to my family for hugely supporting me while I concentrate as much as possible on this class and project!
 
 
 
