@@ -17,6 +17,8 @@ Available data in the free dataset:
 
 # My Dataset
 
+![FIFA World Cup 2018.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/FIFA%20World%20Cup%202018.png)
+
 Chose to focus on 2018 World Cup
 * 64 games - 32 countries
 * 48 round robin group stage games - 8 groups of 4
