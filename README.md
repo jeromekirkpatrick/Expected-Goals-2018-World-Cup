@@ -62,19 +62,20 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/8%20-%20Shots%20Hist.png)
 
-![9 - France xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9%20-%20France%20xg.png)
+# EXPECTED GOALS STAT
+![9.2 - xg tree.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.2%20-%20xg%20tree.png)
 
 ![9.0.0.1 xg goals hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.0.0.1%20xg%20goals%20hists.png)
 
-![9.2 - xg tree.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9.2%20-%20xg%20tree.png)
+![Actual vs Expected Goals.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Actual%20vs%20Expected%20Goals.png)
 
-![10 - goals v xg bar.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10%20-%20goals%20v%20xg%20bar.png)
+![9 - France xg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/9%20-%20France%20xg.png)
 
 ![10.1 France v Croatia xg hists.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/10.1%20France%20v%20Croatia%20xg%20hists.png)
 
-![11 - goals vs shots bar.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/11%20-%20goals%20vs%20shots%20bar.png)
+![Goals vs Shots.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots.png)
 
-![11.1 - goals vs shots:shots avg.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/11.1%20-%20goals%20vs%20shots:shots%20avg.png)
+![Goals vs Shots Avg](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Goals%20vs%20Shots%20per%20Goal.png)
 
 ![12 - dribbles v xg - trying to understand xg further.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/12%20-%20dribbles%20v%20xg%20-%20trying%20to%20understand%20xg%20further.png)
 
