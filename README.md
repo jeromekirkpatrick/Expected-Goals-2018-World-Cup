@@ -1,4 +1,4 @@
-![Statsbomb](https://github.com/jeromekirkpatrick/capstone_1/blob/main/Screen%20Shot%202020-10-30%20at%204.59.04%20PM.png)
+![Statsbomb](https://github.com/jeromekirkpatrick/capstone_1/images/blob/main/Screen%20Shot%202020-10-30%20at%204.59.04%20PM.png)
 
 # The Data Source 
 # Statsbomb - soccer analytics mainly for teams, media, and gambling
@@ -17,7 +17,7 @@ Available data in the free dataset:
 
 # My Dataset
 
-![FIFA World Cup 2018.png](https://github.com/jeromekirkpatrick/capstone_1/blob/main/227px-2018_FIFA_World_Cup.png)
+![FIFA World Cup 2018.png](https://github.com/images/jeromekirkpatrick/capstone_1/blob/main/227px-2018_FIFA_World_Cup.png)
 
 Chose to focus on 2018 World Cup
 * 64 games - 32 countries
