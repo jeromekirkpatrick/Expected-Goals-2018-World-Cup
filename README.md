@@ -73,9 +73,9 @@ Somewhat normal distribution. If there were more games, then I'd expect that sho
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/8%20-%20Shots%20Hist.png)
 # All shots across tournament, penalty spot and penalty kicks explains spike in density
 For both misses...
-![13 - missed shots.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/tree/main/images/13%20-%20missed%20shots.png)
+![13 - missed shots.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/13%20-%20missed%20shots.png)
 And makes!
-![13.1 makes.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/tree/main/images/13.1%20makes.png)
+![13.1 makes.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/13.1%20makes.png)
 
 # EXPECTED GOALS STAT
 This is a breakdown of Statsbomb's factors into rating the 'shot_statsbomb_xg' (expected goal) stat for each shot.
