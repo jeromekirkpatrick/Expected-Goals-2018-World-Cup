@@ -71,7 +71,8 @@ Messi vs Ronaldo!
 # Decided to focus on 3 stats! - SHOTS, EXPECTED GOALS, GOALS
 Somewhat normal distribution. If there were more games, then I'd expect that shots per game would look increasingly normal.
 ![8 - Shots Hist.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/8%20-%20Shots%20Hist.png)
-# All shots across tournament, penalty spot and penalty kicks explains spike in density
+# All shots across tournament
+The penalty spot and penalty kicks explains spike in density
 For both misses...
 ![13 - missed shots.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/13%20-%20missed%20shots.png)
 And makes!
