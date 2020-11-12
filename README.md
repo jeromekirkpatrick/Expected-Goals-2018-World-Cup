@@ -33,7 +33,8 @@ https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplot
 
 # Location, location, location!!
 All of a player's passes throughout a game.
-![3 - Pass Map.png](hhttps://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/3%20-%20Pass%20Map.png)
+
+![3 - Pass Map.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/3%20-%20Pass%20Map.png)
 All of the player's forward passes in the game. Blue are first half and red are second half.
 ![3.1 Pass Map.png](https://github.com/jeromekirkpatrick/Goals-Expected-Goals-and-Shots-of-2018-World-Cup/blob/main/images/3.1%20Pass%20Map.png)
 
